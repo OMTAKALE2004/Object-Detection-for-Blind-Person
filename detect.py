@@ -6,6 +6,7 @@ import RPi.GPIO as GPIO
 
 flag=False
 
+#GPIO pin configuration
 GPIO.setmode(GPIO.BCM)
 TRIG=21
 ECHO=20
@@ -63,6 +64,7 @@ detection_options=processor.DetectionOptions(max_results=3, score_threshold=.6)
 options=vision.ObjectDetectorOptions(base_options=base_options,detection_options=detection_options)
 detector=vision.ObjectDetector.create_from_options(options)
 
+#ultrasonic sensor initialization code
 def measure_distance():
     
     GPIO.output(TRIG,False)
@@ -83,7 +85,7 @@ def measure_distance():
 
 
 
-
+#main while loop
 while True:
     distance=measure_distance()
     while distance < 40.0 :
@@ -140,4 +142,4 @@ while True:
 
 cv2.destroyAllWindows()
 
-#ultrasonic sensor code
+
