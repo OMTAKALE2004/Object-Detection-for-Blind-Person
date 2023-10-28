@@ -83,7 +83,7 @@ python -m pip install --upgrade tflite-support==0.4.3
   Now just copy the code in detect.py file in the python file you created in your project directory and run it using any IDE supported by Raspberry Pi[I prefer Thorny].
 
   
-  In case in query feel free to ask me at
+  In case any query feel free to ask me at
     Gmail- om2004takale@gmail.com
 
 
