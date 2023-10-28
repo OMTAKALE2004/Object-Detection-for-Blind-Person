@@ -16,7 +16,7 @@ Here we will create a stand alone system using rasperry pi, PiCamera and ultraso
 
 ## Steps to run the project on Raspberry Pi
 
-Install Raspberry Pi Bullseye 64 bit Operating system.
+Install Raspberry Pi Bullseye 64 bit Operating system.[I recommend to start with a fresh SD card for this project]
 
 Write the following commands on the Raspberry Pi terminal
 
@@ -80,6 +80,11 @@ python -m pip install --upgrade tflite-support==0.4.3
   <img src="https://github.com/OMTAKALE2004/Object-Detection-for-Blind-Person/assets/111902987/d12713ff-d96c-4736-b8e7-e7ca26c5d7e1" width="50%">
 
   After doing all the connection and installation properly we are now ready with project.
+  Now just copy the code in detect.py file in the python file you created in your project directory and run it using any IDE supported by Raspberry Pi[I prefer Thorny].
+
+  
+  In case in query feel free to ask me at
+    Gmail- om2004takale@gmail.com
 
 
 
