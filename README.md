@@ -77,7 +77,7 @@ python -m pip install --upgrade tflite-support==0.4.3
 
     Interfacing diagram of HC-SR04 :-
   
-  <img src="https://github.com/OMTAKALE2004/Object-Detection-for-Blind-Person/assets/111902987/d12713ff-d96c-4736-b8e7-e7ca26c5d7e1" width="50%">
+  <img src="https://github.com/OMTAKALE2004/Object-Detection-for-Blind-Person/assets/111902987/d12713ff-d96c-4736-b8e7-e7ca26c5d7e1" width="75%">
 
   After doing all the connection and installation properly we are now ready with project.
   Now just copy the code in detect.py file in the python file you created in your project directory and run it using any IDE supported by Raspberry Pi[I prefer Thorny].
