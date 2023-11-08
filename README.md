@@ -73,14 +73,39 @@ python -m pip install --upgrade tflite-support==0.4.3
     
     Ultrasonic Sensor HC-SR04 echo pin output is 5v and Raspberry pi requries 3.3v input in GPIO pins so we need to reduce 5v to 3.3v or below.
     
-    To do this we will use 1k and 1.8k resistor which will make 5v to apporx 2.9v.You can also use any other resistor combination but ensure that the voltage is 3.3v or below it.
+    To do this we will use 1k and 1.8k resistor which will make 5v to apporx 3.2v.You can also use any other resistor combination but ensure that the voltage is 3.3v or below it.
 
     Interfacing diagram of HC-SR04 :-
   
-  <img src="https://github.com/OMTAKALE2004/Object-Detection-for-Blind-Person/assets/111902987/d12713ff-d96c-4736-b8e7-e7ca26c5d7e1" width="75%">
+  <img src="https://github.com/OMTAKALE2004/Object-Detection-for-Blind-Person/assets/111902987/d12713ff-d96c-4736-b8e7-e7ca26c5d7e1" width="50%">
 
   After doing all the connection and installation properly we are now ready with project.
   Now just copy the code in detect.py file in the python file you created in your project directory and run it using any IDE supported by Raspberry Pi[I prefer Thorny].
+
+
+  ## Flowchart
+
+  <img src="https://github.com/OMTAKALE2004/Object-Detection-for-Blind-Person/assets/111902987/f6b05cac-10ed-4005-bb05-f8240d236f3e"  width="50%" height="60%">
+
+
+
+## Project Design
+
+<table border="1px">
+<tr>
+     <th>
+            <img src="https://github.com/OMTAKALE2004/Object-Detection-for-Blind-Person/assets/111902987/4adcbbd7-ec3f-4f1b-901a-66e11b314414" width="75%">
+        </th>
+         <th>
+            <img src="https://github.com/OMTAKALE2004/Object-Detection-for-Blind-Person/assets/111902987/15d65407-67cf-4619-abf9-ec53f933a48d" width="75%">
+        </th>
+</tr>
+       
+            
+    
+
+        
+</table>
 
   
   In case any query feel free to ask me at
