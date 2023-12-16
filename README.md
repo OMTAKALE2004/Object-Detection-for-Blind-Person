@@ -107,9 +107,13 @@ python -m pip install --upgrade tflite-support==0.4.3
         
 </table>
 
-  
+## Video of project :
+https://youtu.be/nzOgw3UxZWM?si=EqH9-3wxSDYZnIQW 
+
+<br>
+
   In case any query feel free to ask me at
-    Gmail- om2004takale@gmail.com
+  Gmail- om2004takale@gmail.com
 
 
 
