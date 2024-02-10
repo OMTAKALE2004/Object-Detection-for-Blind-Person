@@ -114,6 +114,8 @@ https://youtu.be/nzOgw3UxZWM?si=EqH9-3wxSDYZnIQW
 
   In case any query feel free to ask me at
   Gmail- om2004takale@gmail.com
+  Gmail- gaureshtambe@gmail.com
+  Gmail- dt22062003@gmail.com
 
 
 
