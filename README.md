@@ -8,7 +8,7 @@ Here we will create a stand alone system using rasperry pi, PiCamera and ultraso
 
 ## Project Requirement
 
-- Rasperry Pi [I used Raspberry Pi 3B]
+- Rasperry Pi (I used Raspberry Pi 3B)
 - PiCamera3
 - Ultrasonic Sensor HC-SR04
 - Some jumper cables,1k and 1.8k resistors and zero pcb
